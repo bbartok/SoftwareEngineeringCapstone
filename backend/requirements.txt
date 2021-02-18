@@ -1,0 +1,16 @@
+#SE-OER == 1.1 ; 
+python_version >= '3.7'
+
+### Libs with Versions ###
+Django==3.0
+djangorestframework
+django-filter
+django-extensions
+#postgreSQL hing
+psycopg2>=2.7
+#passwordHashing
+passlib==1.7.2
+#CORS Header
+django-cors-headers
+pytest
+PyJWT
