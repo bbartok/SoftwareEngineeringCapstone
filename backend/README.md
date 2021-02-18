@@ -13,14 +13,3 @@ source venv/bin/activate<br />
 ### To exit the virtual environment:<br />
 deactivate<br />
 
-<del>### If you're having problems with the venv, let us know, or install packages manually:<br />
-pip3 install flask<br />
-
-### Necessary for authentication<br />
-pip3 install Flask-JWT<br />
-
-### Necessary for api mappings<br />
-pip3 install Flask-RESTful<br />
-
-### A SQLAlchemy library made useable for Flask. It's an ORM<br />
-pip3 install Flask-SQLAlchemy<br /></del>
